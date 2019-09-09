@@ -6,8 +6,8 @@ Project 1 - Flocking**
 
 
 * Davis Polito
-  * (TODO) [https://github.com/davispolito/Project0-Getting-Started/blob/master]()
-* Tested on: (TODO) Windows 10, i7-8750H @ 2.20GHz 16GB, GTX 1060
+  *  [https://github.com/davispolito/Project0-Getting-Started/blob/master]()
+* Tested on: Windows 10, i7-8750H @ 2.20GHz 16GB, GTX 1060
 
  **For each implementation, how does changing the number of boids affect performance? Why do you think this is?**
 
